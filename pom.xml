@@ -108,6 +108,9 @@
   </issueManagement>
 
   <properties>
+    <!-- SonarCloud Properties-->
+    <sonar.organization>ithieves</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>2.5.10</asciidoctorj.version>
     <bootstrap.version>5.3.2</bootstrap.version>
